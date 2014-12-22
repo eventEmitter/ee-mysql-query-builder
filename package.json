@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-mysql-query-builder"
     , "description"                 : "SQL query builder for postgres. Used by the ee-orm package."
-    , "version"                     : "0.1.0"
+    , "version"                     : "0.1.1"
     , "homepage"                    : "https://github.com/eventEmitter/ee-mysql-query-builder"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
