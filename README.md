@@ -1,7 +1,3 @@
-# ee-mysql-query-builder
+# related-mysql-query-builder
 
-SQL query builder for mysql. Used by the ee-orm package.
-
-## installation
-
-    npm install ee-mysql-query-builder
+Builds MySQL SQL queries for the [Related ORM](https://www.npmjs.com/package/related).
